@@ -1,0 +1,7 @@
+
+.data-time-rangeslider {
+    top: 20px;
+}
+.rangeslider__holder [type="range"] {
+	padding: 0;
+}
